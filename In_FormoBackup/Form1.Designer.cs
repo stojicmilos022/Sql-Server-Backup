@@ -559,7 +559,7 @@
             this.chbXML.TabIndex = 9;
             this.chbXML.Text = "Backup XML";
             this.chbXML.UseVisualStyleBackColor = true;
-            this.chbXML.CheckedChanged += new System.EventHandler(this.chbXML_CheckedChanged);
+            //this.chbXML.CheckedChanged += new System.EventHandler(this.chbXML_CheckedChanged);
             // 
             // btnBackup
             // 
